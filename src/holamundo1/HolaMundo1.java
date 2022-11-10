@@ -20,7 +20,7 @@ public class HolaMundo1 {
         
         
         
-        System.out.println("");
+        System.out.println("Prueba para GitHub");
 
         //System.out.println("Su nombre es: " + nombre + " y su edad es: " + edad);
         
